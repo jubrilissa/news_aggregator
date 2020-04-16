@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'category',
     'news',
+    'outlet',
     'rest_framework',
 
 ]
